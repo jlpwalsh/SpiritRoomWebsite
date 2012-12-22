@@ -1,0 +1,49 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+}
+.photoBack {
+	background-color: #0099FF;
+	border: medium outset #CCCCCC;
+	position: absolute;
+	left: 450px;
+}
+#header_banner {
+	background-color: #FFFF00;
+	margin: 0px;
+	padding: 0px;
+}
+#top_nav {
+	padding-left:20px;
+	font-weight:bold;
+	text-decoration:none;
+}
+#top_nav a {
+	color: #0099CC;
+}
+#top_nav a.hover {
+	color:#99FF00;
+}#top_nav a {
+	color: #0066FF;
+	text-decoration: none;
+}
+#top_nav a.hover {
+	color: #33CCFF;
+	text-decoration: none;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+}
+.listing_table {
+	border: thin solid #0000CC;
+	margin-left:10px;
+	padding:3px;
+}
